@@ -1,3 +1,4 @@
+https://testrobotic-fhl2nz131-islam-baytiev.vercel.app/ ccылка на versel
 Используя React + TypeScript
 а также библиотеку highcharts.js (https://github.com/highcharts/highcharts-react)
 Сделать страницу с графиком, отображающим рейтинг смартфонов\планшетов.
